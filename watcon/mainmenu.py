@@ -2,6 +2,8 @@ from functools import partial
 import tkinter as tk
 from tkinter import messagebox
 
+"""Well well well"""
+
 class GenericMainMenu(tk.Menu):
 
     def __init__(self, parent, settings, callbacks, **kwargs):
